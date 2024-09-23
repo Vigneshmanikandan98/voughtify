@@ -2,7 +2,7 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = "2ab54d59a68648b1afa2cfaba74dfb89";
-const redirectUri = "https://vigneshmanikandan98.github.io/";
+const redirectUri = "http://vigneshmanikandan98.github.io/";
 const scopes = [
   "user-read-currently-playing",
   "user-read-recently-played",
