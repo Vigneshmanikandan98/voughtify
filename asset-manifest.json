@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/voughtify/static/css/main.e725353c.css",
-    "main.js": "/voughtify/static/js/main.caed720a.js",
+    "main.js": "/voughtify/static/js/main.41317d68.js",
     "index.html": "/voughtify/index.html",
     "main.e725353c.css.map": "/voughtify/static/css/main.e725353c.css.map",
-    "main.caed720a.js.map": "/voughtify/static/js/main.caed720a.js.map"
+    "main.41317d68.js.map": "/voughtify/static/js/main.41317d68.js.map"
   },
   "entrypoints": [
     "static/css/main.e725353c.css",
-    "static/js/main.caed720a.js"
+    "static/js/main.41317d68.js"
   ]
 }
