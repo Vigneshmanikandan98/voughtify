@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/voughtify/static/css/main.e725353c.css",
+    "main.js": "/voughtify/static/js/main.caed720a.js",
+    "index.html": "/voughtify/index.html",
+    "main.e725353c.css.map": "/voughtify/static/css/main.e725353c.css.map",
+    "main.caed720a.js.map": "/voughtify/static/js/main.caed720a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e725353c.css",
+    "static/js/main.caed720a.js"
+  ]
+}
