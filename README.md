@@ -1,6 +1,6 @@
 # Spotify Clone app
 
-[App-Screenshot.png]
+![App-Screenshot.png](./App-Screenshot.png)
 
 
 
